@@ -1,5 +1,7 @@
 # mean-stack-code-setup
-This project is about basic setup of angular with nodejs (mean stack)
+This project is about basic setup of angular with nodejs (mean stack)  <br><br><br>
+
+**To make the project clear I have create seperate branch for backend (feature/backend-setup) and frontend (feature/angular/setup), please check both**
 
 **Package Installation**
 **BackEnd**
@@ -19,4 +21,6 @@ To test API we can also use POSTMAN and hit the api to check the response from t
 **How to run Angular Code**
 **Command: ng serve --proxy-config proxy.conf.json** <br><br>
 **We need use proxy to hit the backend API as our angular application and server is running on different port** <br>
-proxy.conf.json is a new file created inside project which contains proxy code.
+proxy.conf.json is a new file created inside project which contains proxy code. <br><Br>
+
+FEEL FREE TO TAKE PULL!!!, THANKS :)
