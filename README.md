@@ -3,7 +3,7 @@ This project is about basic setup of angular with nodejs (mean stack)  <br><br><
 
 **To make the project clear I have create seperate branch for backend (feature/backend-setup) and frontend (feature/angular/setup), please check both**
 
-**Package Installation**
+**Package Installation** <br><br>
 **BackEnd**
 1. npm i <br>
 2. npm init <br>
